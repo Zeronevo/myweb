@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>易经 on UNXOR</title>
+    <link>https://unxor.com/yi/</link>
+    <description>Recent content in 易经 on UNXOR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2020 22:28:10 +0800</lastBuildDate><atom:link href="https://unxor.com/yi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>五行</title>
+      <link>https://unxor.com/yi/wuxing/</link>
+      <pubDate>Tue, 22 Sep 2020 22:58:56 +0800</pubDate>
+      
+      <guid>https://unxor.com/yi/wuxing/</guid>
+      <description>五行是中国古代哲学的一种系统观，广泛用于中医、堪舆、命理、相术和占卜等方面。五行的意义包涵借着阴阳演变过程的五种基本动态：水（代表浸润）、火（代表破灭）、金（代表敛聚）、木（代表生长）、土（代表融合）。中国古代哲学家用五行理论来说明世界万物的形成及其相互关系。它强调整体，旨在描述事物的运动形式以及转化关系。阴阳是古代的对立统一学说，五行是原始的系统论。</description>
+    </item>
+    
+  </channel>
+</rss>

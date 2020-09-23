@@ -1,17 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>菠萝猪的窝 on Hugo Grayscale Theme</title>
-    <link>https://zeronevo.github.io/</link>
-    <description>Recent content in 菠萝猪的窝 on Hugo Grayscale Theme</description>
+    <title>HOME on UNXOR</title>
+    <link>https://unxor.com/</link>
+    <description>Recent content in HOME on UNXOR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>dco@runningstream.net (RunningStream)</managingEditor>
-    <webMaster>dco@runningstream.net (RunningStream)</webMaster>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 22:58:56 +0800</lastBuildDate><atom:link href="https://unxor.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>五行</title>
+      <link>https://unxor.com/yi/wuxing/</link>
+      <pubDate>Tue, 22 Sep 2020 22:58:56 +0800</pubDate>
+      
+      <guid>https://unxor.com/yi/wuxing/</guid>
+      <description>五行是中国古代哲学的一种系统观，广泛用于中医、堪舆、命理、相术和占卜等方面。五行的意义包涵借着阴阳演变过程的五种基本动态：水（代表浸润）、火（代表破灭）、金（代表敛聚）、木（代表生长）、土（代表融合）。中国古代哲学家用五行理论来说明世界万物的形成及其相互关系。它强调整体，旨在描述事物的运动形式以及转化关系。阴阳是古代的对立统一学说，五行是原始的系统论。</description>
+    </item>
     
-	<atom:link href="https://zeronevo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最清晰UFO</title>
+      <link>https://unxor.com/unknown/ufo.md/xx/</link>
+      <pubDate>Tue, 22 Sep 2020 22:58:56 +0800</pubDate>
+      
+      <guid>https://unxor.com/unknown/ufo.md/xx/</guid>
+      <description>“最清晰”UFO照片？2014年休斯敦出现圆形不明物，数百人目睹！ 近些年来关于UFO的目睹事件越来越频繁，在今年6月份的时候，波兰一名男子拍摄到了一张UFO照片，这张照片发布到网络上引起了极大的轰动，甚至有UFO的研究人员称，这是目前以来最清晰的UFO照片。最后的结果大家也都知道了，这只不过是这名男子的玩具飞碟罢了，一个恶作剧竟然引起了如此大的轰动，足以说明人类对外星生命的认知多么的浅显。</description>
+    </item>
     
+    <item>
+      <title>关于 UNXOR</title>
+      <link>https://unxor.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unxor.com/about/</guid>
+      <description>UN = Unknown
+ 我们面对未知的事物充满疑惑 我们要不断探索扩充知识储备  XOR 一个数学符号
+ 数学是我们与未知沟通的语言  unxor 对于未知的事物，我们会不断探索研究
+ </description>
+    </item>
+    
+    <item>
+      <title>联系我们</title>
+      <link>https://unxor.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unxor.com/contact/</guid>
+      <description>等待我们新的联系方式。。。</description>
+    </item>
     
   </channel>
 </rss>
